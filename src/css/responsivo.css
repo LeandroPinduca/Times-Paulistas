@@ -29,7 +29,7 @@
         align-items: flex-end;
         width: 100%;
         padding: 30px;
-     
+        top: -100;
     }
 
     .botoes .botao img {
@@ -61,6 +61,6 @@
     }
 
     .botoes .botao img {
-        max-width: 100px;
+        max-width: 50px;
     }
 }
